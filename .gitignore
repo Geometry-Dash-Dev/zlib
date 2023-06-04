@@ -25,4 +25,4 @@
 
 .DS_Store
 
-/libs/zlib/zconf.h.included
+/zconf.h.included
